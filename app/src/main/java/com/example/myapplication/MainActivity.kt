@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() ,View.OnClickListener{
                     flag = ""
                 }
             }
-            "c"->{
+            "C"->{
                 firstNum = ""
                 secondNum = ""
                 flag = ""
